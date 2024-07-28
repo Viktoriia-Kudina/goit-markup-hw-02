@@ -101,7 +101,7 @@ a {
   text-transform: capitalize;
 }
 
-.second-list {
+.second-item {
   background-color: #ffffff;
 }
 
@@ -115,6 +115,8 @@ a {
 
 .paragraph {
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .footer-p {
